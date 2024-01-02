@@ -9,13 +9,6 @@ The research will leverage Design of Experiments (DOE), Analysis of Variance (AN
 Furthermore, machine learning methods will play a pivotal role in extracting patterns and relationships from the on-field data obtained through real experiments. This holistic approach ensures that the analysis is tailored to the specific nuances of the process, the equipment involved, and the operating conditions prevalent at Coloplast. By combining these methodologies, the research aims to yield insights that are directly applicable to the practical context of the company's laser marking operations.
 
 
-## Acknowledgements
-
- - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Awesome README](https://github.com/matiassingers/awesome-readme)
- - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
-
-
 ## In colaboration  with
 
 - [DTU Construct](https://construct.dtu.dk/)
